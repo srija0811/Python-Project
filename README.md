@@ -1,2 +1,5 @@
-## Learning Goals
-I am practicing Python, Git, GitHub, and collaborative software development.
+## Python Learning Goals
+
+- Practice Python programming.
+- Learn data structures and algorithms.
+- Improve my Git and GitHub skills.
