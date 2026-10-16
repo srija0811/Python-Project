@@ -1,4 +1,2 @@
-## About This Project
-
-This repository contains my Python learning and practice projects.
-I am improving my programming skills and learning GitHub collaboration.
+## Learning Goals
+I am practicing Python, Git, GitHub, and collaborative software development.
